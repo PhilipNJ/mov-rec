@@ -31,3 +31,4 @@ o   Using a count vectorizer, we get the feature names 
 o   Cosine Similarity Algorithim is applied
 
 -      Function is created to extracted movies with 5 closest similarity indices.
+<img width="792" alt="image" src="https://user-images.githubusercontent.com/97375173/162492426-cf54b892-a3af-4172-be0d-9c8f43e920d5.png">
